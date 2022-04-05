@@ -1,0 +1,21 @@
+{
+    "name": "yivi/stub-bundle",
+    "description": "'A bundle of nothing'",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yivi\\StubBundle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ivan Yivoff",
+            "email": "ivan@yivoff.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "symfony/framework-bundle": "^6.0"
+    }
+}

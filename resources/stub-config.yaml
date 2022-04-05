@@ -1,0 +1,6 @@
+# Uncomment this to break your project:
+
+#unsupported_config_key:
+#  foo: 'bar'
+#  bar: 'fizz'
+#  fizz: 'buzz''
